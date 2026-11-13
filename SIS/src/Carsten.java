@@ -1,5 +1,3 @@
+public class Carsten {
 
-public class Carsten
-	{
-
-	}
+}
