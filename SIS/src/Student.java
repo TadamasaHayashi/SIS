@@ -14,7 +14,7 @@ public class Student {
         this.lastName = lastName;
         this.per1 = per1;
         this.per2 = per2;
-        this.per3 = per3;
+        this.per3 = per3; 
         this.per1Grade = per1Grade;
         this.per2Grade = per2Grade;
         this.per3Grade = per3Grade;
